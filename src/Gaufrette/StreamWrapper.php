@@ -14,6 +14,8 @@ class StreamWrapper
 
     private $stream;
 
+    public $context; // deprecated error php 8.2
+    
     /**
      * Defines the filesystem map.
      *

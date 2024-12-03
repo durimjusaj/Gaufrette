@@ -1,5 +1,5 @@
 {
-    "name":         "knplabs/gaufrette",
+    "name":         "durimjusaj/gaufrette",
     "type":         "library",
     "description":  "PHP library that provides a filesystem abstraction layer",
     "keywords":     ["file", "filesystem", "media", "abstraction"],
